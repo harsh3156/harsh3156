@@ -1,68 +1,50 @@
-## Hi there 👋
+# Hey, I'm Harsh 👋  
 
-<!--
-**harsh3156/harsh3156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Student | Web Developer | Mern Learner**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# Hey, I'm Rohit More!
-
-Welcome to my GitHub! I'm a **developer and problem solver** focused on building purposeful apps. While I'm not actively working on a major project at the moment, I'm fully immersed in **mastering Data Structures and Algorithms using Java** — sharpening the blade before the next big battle.
+Welcome to my GitHub profile!  
+I'm passionate about building web projects and continuously improving my skills 🚀  
 
 ---
 
-## Technologies I Work With
-
-Here are some of the technologies and tools I use:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/DSA-264653?style=for-the-badge&logo=code&logoColor=white" alt="Data Structures & Algorithms" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/UI/UX Design-000000?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-</p>
+## 👨‍💻 About Me
+- 🎓 Studying **BCA** at Veer Narmad South Gujarat University  
+- 💻 Interested in **Web Development & Programming**  
+- 🌱 Currently learning **MERN Stack & DSA**  
+- 🔥 Love building small projects and improving daily  
 
 ---
 
-## My Current Focus: **Sharpening the Core with DSA + Java**
-
-Right now, I'm not building — I'm training.  
-I'm channeling my full energy into **Data Structures & Algorithms using Java**, solving problems daily, and preparing for what lies ahead in both interviews and real-world challenges. It's not a pause — it's a preparation phase.
-
-> "Before constructing great things, a wise builder sharpens his tools."
-
----
-
-## Past Project Highlight: **Filmcraft Studio** (Closed)
-
-🎬 This was a passionate attempt to build a cross-platform video editing application using **QML and C++**, inspired by industry tools like Wondershare Filmora. Although the project is currently inactive, it laid a solid foundation for UI design and modular thinking.
-
-🔗 [ Explore the Filmcraft Studio](https://github.com/Vardaan-Studio/Filmcraft)
+## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-black)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
 
 ---
 
-##  Let's Connect!
-
- **X (Twitter):** [@rohit_oncode](https://x.com/rohit_oncode)   
- **LinkedIn:** [Rohit More](https://www.linkedin.com/in/rohit--more/)  
- **Instagram:** [@vardaan__19](https://www.instagram.com/vardaan__19)
+## 📌 Projects
+- 🔹 **My Portfolio** – Personal portfolio website  
+- 🔹 **Food Tomato** – JavaScript based project  
 
 ---
 
-Feel free to connect and collaborate — together, we can turn great ideas into impactful solutions.
+## 📊 GitHub Stats
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh3156&show_icons=true&theme=tokyonight)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect With Me
+- 📧 Email: harshkaklotar09@gmail.com
+- 💻 GitHub: https://github.com/harsh3156  
+- 💻 LeetCode: https://leetcode.com/u/oreoharsh/
+- 🖇️ instagram: https://www.instagram.com/___harsh_kaklotar_3156?igsh=MWxnYWVjczRrMXNiZA%3D%3D&utm_source=qr
+- 👻snapchat: https://www.instagram.com/___harsh_kaklotar_3156?igsh=MWxnYWVjczRrMXNiZA%3D%3D&utm_source=qr
+- MyPortfolio: Coming Soon
+
+---
+
+⭐ *Consistency > Motivation*
